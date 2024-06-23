@@ -9,3 +9,5 @@ python -m http.server 8086
 it will run simple webserver on port 8086 in your linux system
 
 you can use python3 insted of python
+
+# you can use this command to check if some port is open on your firewall or not
